@@ -4,4 +4,3 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ajk1330)](https://solved.ac/ajk1330)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ajk1330&theme=dark)
-<img src="http://mazandi.herokuapp.com/api?handle=ajk1330&theme=dark"/>
